@@ -11,3 +11,5 @@ main:https://github.com/journey-ad/chat-room
 </a>
 
 
+# 教育版
+git clone https://github.com/xlenco/chatroomonreplit && mv -b chatroomonreplit/* ./ && mv -b chatroomonreplit/.[^.]* ./ && rm -rf *~ && rm -rf chatroomonreplit
